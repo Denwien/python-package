@@ -1,4 +1,7 @@
 [project]
+dependencies = [
+    "colorama==0.4.4"
+]
 authors = [
     {name = "Hexlet team", email = "team@hexlet.io"},
 ]
